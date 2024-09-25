@@ -128,22 +128,22 @@ Communication Infrastructure Upgrade: Deployed Skype for Business Video Conferen
 
 ![alt text](<Jun-01-2024 17-00-41.gif>)
 
-```
+```powershell
 Set-ExecutionPolicy Bypass -Scope CurrentUser -Force
 
 $isAdmMode = ([Security.Principal.WindowsPrincipal] [Security.Principal.WindowsIdentity]::GetCurrent()).IsInRole([Security.Principal.WindowsBuiltInRole] "Administrator")
 
 Write-Output "**************************************************************************************"
-Write-Output "Current Date		- $(Get-Date -Format 'yyyy MMM dd HH:mm K')"
-Write-Output "PowerShell Version 	- $($PSVersionTable.PSVersion)"
-Write-Output "Computer Name 		- $env:computername"
-Write-Output "Is Admin Mode 		- $isAdmMode"
-Write-Output "Current Path 		- $(Get-Location)"
-Write-Output "Login Account 		- $([System.Security.Principal.WindowsIdentity]::GetCurrent().Name)"
-Write-Output "Current Script Name	- $($MyInvocation.MyCommand.Name)"
-Write-Output "Ticket			- #<ticket number>"
-Write-Output "Customer		- <customer name>"
-Write-Output "Script description	- <description>"
+Write-Output "Current Date        - $(Get-Date -Format 'yyyy MMM dd HH:mm K')"
+Write-Output "PowerShell Version  - $($PSVersionTable.PSVersion)"
+Write-Output "Computer Name       - $env:computername"
+Write-Output "Is Admin Mode       - $isAdmMode"
+Write-Output "Current Path        - $(Get-Location)"
+Write-Output "Login Account       - $([System.Security.Principal.WindowsIdentity]::GetCurrent().Name)"
+Write-Output "Current Script Name - $($MyInvocation.MyCommand.Name)"
+Write-Output "Ticket              - #<ticket number>"
+Write-Output "Customer            - <customer name>"
+Write-Output "Script description  - <description>"
 Write-Output "**************************************************************************************"
 
 <#
