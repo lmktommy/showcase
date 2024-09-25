@@ -159,9 +159,11 @@ Change History
 [Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12
 ```
 
+<img src="telegram-bot creation.gif" alt="placeholder" width="50%" height="50%">
+<!-- ![alt text](<telegram-bot creation.gif>){width=40% } -->
 
-![alt text](<telegram-bot creation.gif>){ width=40% }
+<img src="telegram-new chat group with history.gif" alt="placeholder" width="50%" height="50%">
+<!-- ![alt text](<telegram-new chat group with history.gif>){ width=40% } -->
 
-![alt text](<telegram-new chat group with history.gif>){ width=40% }
-
-![alt text](<telegram-add bot and chat ID.gif>){ width=40% }
+<img src="telegram-add bot and chat ID.gif" alt="placeholder" width="50%" height="50%">
+<!-- ![alt text](<telegram-add bot and chat ID.gif>){ width=40% } -->
