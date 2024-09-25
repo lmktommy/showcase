@@ -160,4 +160,8 @@ Change History
 ```
 
 
-![alt text](<video-output-6EE4B1F2-9BFC-418D-A9F9-FDE5D38429F7.mov>)
+![alt text](<telegram-bot creation.gif>)
+
+![alt text](<telegram-new chat group with history.gif>)
+
+![alt text](<telegram-add bot and chat ID.gif>)
