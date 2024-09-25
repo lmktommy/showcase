@@ -122,11 +122,19 @@ Communication Infrastructure Upgrade: Deployed Skype for Business Video Conferen
 
 ## **Project, Showcase and Workflow**
 
+### Automation of IT Asset Management System
+
 ![alt text](<Automated IT Helpdesk System.jpeg>)
+
+### Automation of IT Asset Management System
 
 ![alt text](<endpoint security - client.png>)
 
+### Cyber Security - Message Delivery (Public & Private Key)
+
 ![alt text](<Jun-01-2024 17-00-41.gif>)
+
+### Template of Powershell script
 
 ```powershell
 Set-ExecutionPolicy Bypass -Scope CurrentUser -Force
@@ -158,6 +166,8 @@ Change History
 
 [Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12
 ```
+
+### Telegram with Bot Operation (Handles on json, API)
 
 <img src="telegram-bot creation.gif" alt="placeholder" width="50%" height="50%">
 <!-- ![alt text](<telegram-bot creation.gif>){width=40% } -->
