@@ -167,7 +167,7 @@ Change History
 [Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12
 ```
 
-### Telegram with Bot Operation (Handles on json, API)
+### Telegram with Bot Operation (Doucmentation and Handles on json, API)
 
 <img src="telegram-bot creation.gif" alt="placeholder" width="50%" height="50%">
 <!-- ![alt text](<telegram-bot creation.gif>){width=40% } -->
