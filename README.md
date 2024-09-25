@@ -160,8 +160,8 @@ Change History
 ```
 
 
-![alt text](<telegram-bot creation.gif>)
+![alt text](<telegram-bot creation.gif>){ width=40% }
 
-![alt text](<telegram-new chat group with history.gif>)
+![alt text](<telegram-new chat group with history.gif>){ width=40% }
 
-![alt text](<telegram-add bot and chat ID.gif>)
+![alt text](<telegram-add bot and chat ID.gif>){ width=40% }
