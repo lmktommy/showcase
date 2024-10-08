@@ -177,3 +177,6 @@ Change History
 
 <img src="telegram-add bot and chat ID.gif" alt="placeholder" width="50%" height="50%">
 <!-- ![alt text](<telegram-add bot and chat ID.gif>){ width=40% } -->
+
+### Node-RED (Automation, Montioring and Testing Tool)
+![alt text](<Screenshot 2024-10-08 at 4.51.40 PM.png>)
