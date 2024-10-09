@@ -169,14 +169,21 @@ Change History
 
 ### Telegram with Bot Operation (Doucmentation and Handles on json, API)
 
+#### Bot Creation in Telegram
+
 <img src="telegram-bot creation.gif" alt="placeholder" width="50%" height="50%">
 <!-- ![alt text](<telegram-bot creation.gif>){width=40% } -->
 
+#### Chat Group Creation in Telegram
+
 <img src="telegram-new chat group with history.gif" alt="placeholder" width="50%" height="50%">
 <!-- ![alt text](<telegram-new chat group with history.gif>){ width=40% } -->
+
+#### Chat Group ID Collection in Telegram
 
 <img src="telegram-add bot and chat ID.gif" alt="placeholder" width="50%" height="50%">
 <!-- ![alt text](<telegram-add bot and chat ID.gif>){ width=40% } -->
 
 ### Node-RED (Automation, Montioring and Testing Tool)
+
 ![alt text](<Screenshot 2024-10-08 at 4.51.40 PM.png>)
