@@ -83,3 +83,63 @@ Change History
 ### Helpdesk Workflow
 
 ![alt text](<Helpdesk Workflow.png>)
+
+
+### Helpdesk Documentation Template
+
+#### 📝 Article Title
+(Clear and descriptive. Example: "How to Reset Your Office 365 Password")
+
+#### 📌 Overview
+(Brief purpose of this article. Example: "This guide explains how users can reset their password using the Office 365 self-service portal.")
+
+#### 🎯 Scope & Audience
+	• Applies to: (End Users / IT Staff / Admins)
+	• Systems: (e.g., Windows 11, Office 365, VPN Portal)
+	• Departments / Roles: (if applicable)
+
+#### ✅ Prerequisites / Before You Begin
+	• (List requirements: access, tools, permissions, account details, VPN, etc.)
+	• (Example: "You must know your employee ID and have access to your recovery email.")
+
+#### ⚙️ Procedure / Step-by-Step Instructions
+	1. (Step 1 instruction here — include screenshots if possible)
+	2. (Step 2 instruction here)
+	3. (Step 3 instruction here)
+
+#### 📊 Verification / Expected Outcome
+	• (Describe what should happen if procedure is followed correctly)
+	• (Example: "You will receive a confirmation email and be able to log in with your new password.")
+
+#### 🛠️ Troubleshooting / Known Issues
+	• (Problem 1 → Solution)
+	• (Problem 2 → Solution)
+	• (FAQs if relevant)
+
+#### 📎 References / Related Articles
+	• (Link to related KBs or vendor documentation)
+	• (Internal IT policy references, if any)
+
+#### 📢 Escalation / When to Contact IT
+	• (When self-service does not work, provide clear escalation path)
+	• (Example: "If you are unable to reset your password, contact the Service Desk at xxxxx or submit a ticket under 'Password Issues'.")
+
+#### 🗑️ Dismiss / Decommission (if applicable)
+	• Retirement Date: (dd/mm/yyyy)
+	• Replacement Process / System: (new tool, new KB link, etc.)
+	• Contact for Transition Support: (team or owner)
+
+#### 🔒 Security / Compliance Notes (Optional)
+	• (Any sensitive information handling requirements, GDPR notes, data classification, etc.)
+
+#### 🕒 Review & Change History
+	• Created: (dd/mm/yyyy by [Author])
+	• Last Updated: (dd/mm/yyyy by [Editor])
+	• Next Review Due: (dd/mm/yyyy)
+	• Version Notes: (e.g., v2.0 – Updated screenshots for new portal UI)
+
+#### 📂 Metadata (system-generated or admin fields)
+	• Category / Subcategory: (e.g., Password Issues > Office 365)
+	• Keywords / Tags: (to improve searchability)
+	• Owner / Author: (team name or person)
+	• Visibility: (Internal IT only / End-User Facing)
